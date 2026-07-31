@@ -171,18 +171,7 @@ tech-reportgen-pro/
 
 ---
 
-## ⚠️ Free Tier Limits
 
-The app uses **Google Gemini 2.5 Flash** on the free tier, which has these limits:
-
-| Limit | Value |
-|-------|-------|
-| Requests per minute | 5 RPM |
-| Requests per day | 20–50 RPD |
-
-**Each report generation uses ~4–5 requests.** If you hit a limit, the app displays a friendly warning instead of crashing. To remove limits, [enable billing](https://console.cloud.google.com/billing) on your Google Cloud project — generous free thresholds still apply.
-
----
 
 ## 🛠️ Tech Stack
 
