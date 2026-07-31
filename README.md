@@ -202,11 +202,8 @@ The app uses **Google Gemini 2.5 Flash** on the free tier, which has these limit
 ---
 
 ## 👨‍💻 Authors
-
-| Author | Role |
-|--------|------|
-| **Vicent** | Co-developer |
-| **Fandresena** | Co-developer |
+- **Vicent** – [vicentmwanda](https://github.com/vicentmwanda)  
+- **Fandresena** – [Efandresena](https://github.com/Efandresena)  
 
 ---
 
