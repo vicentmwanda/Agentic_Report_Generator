@@ -2,7 +2,8 @@
 
 > **An AI-powered multi-agent technical report generator** built with Google Gemini, LangChain, LangGraph, and Gradio. Generate structured, fact-checked, 1000-word technical reports on **any technology topic** — with live web research and automatic reference generation.
 
----
+<img width="1026" height="885" alt="Preview" src="https://github.com/user-attachments/assets/af9f4c2e-e768-417a-be54-f285246ae4dd" />
+
 
 ## ✨ Features
 
