@@ -163,10 +163,6 @@ tech-reportgen-pro/
 │   ├── gradioapp.py      # Gradio UI and event handlers
 │   ├── utils.py          # Prompt templates and helper functions
 │   └── app.css           # Custom UI styling
-├── fraudapp/             # Fraud detection app (separate module)
-│   ├── app.py
-│   ├── fraud_card_app.py
-│   └── utils/
 ├── .env                  # Your API keys (not committed to git)
 ├── .env.example          # Template for environment variables
 ├── requirements.txt      # Python dependencies
